@@ -1,1 +1,1 @@
-"123angxlzznet123"
+local vaidKey = "123angxlzznet123"
